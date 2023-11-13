@@ -1,0 +1,28 @@
+.training-drop-down {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  height: 80vh;
+}
+
+.pick-n-mix-column {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.pick-buttons {
+  background: var(--lime);
+  border: none;
+  width: 95%;
+  height: 23%;
+  box-sizing: border-box;
+  margin: 5px;
+  border-radius: 8vh;
+}
+.curated-buttons {
+  background: var(--turq);
+  border: none;
+  width: 95%;
+  height: 15%;
+  box-sizing: border-box;
+  margin: 5px;
+  border-radius: 7.5vh;
+}

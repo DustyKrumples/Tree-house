@@ -1,0 +1,14 @@
+@import "./header.css";
+@import "./megamenu.css";
+:root {
+    --lime: rgb(101, 178, 46);
+    --turq: rgb(0, 165, 181);
+}
+* {
+    margin: 0;
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+}
+body {
+    background-color: #333333;
+}
